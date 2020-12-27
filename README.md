@@ -1,5 +1,6 @@
 	# PERSONAL-KEYLOGGER
 	Keylogger using Python code. 
-	Once program is running, all keystrokes will be logged in "KEYLOGGER.txt" even on startup. 
-	To stop the program, open task manager and find "Python"
-	Click on "python" then click end task to stop the logger
+	Create folder on desktop titled "KEYLOGGER"
+	Download and place "KEYLOGGING.txt" and "main.py" into "KEYLOGGER" folder.
+	Run the code in python and all keystrokes will be logged in "KEYLOGGING.txt"
+	To turn off keylogger, close terminal and check talk manager to make sure Python is not running
